@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world! Change 3");
         System.out.println("Another change");
         System.out.println("Changes, hello GitHub!");
-        System.out.println("A different change, how strange!");
+        System.out.println("I don't like changes.");
     }
 }
